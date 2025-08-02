@@ -1,0 +1,14 @@
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\bin\Debug\net9.0\scriptsquad.exe
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\bin\Debug\net9.0\scriptsquad.deps.json
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\bin\Debug\net9.0\scriptsquad.runtimeconfig.json
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\bin\Debug\net9.0\scriptsquad.dll
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\bin\Debug\net9.0\scriptsquad.pdb
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.AssemblyInfoInputs.cache
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.AssemblyInfo.cs
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.csproj.CoreCompileInputs.cache
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.dll
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\refint\scriptsquad.dll
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.pdb
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\scriptsquad.genruntimeconfig.cache
+C:\Users\chena\Documents\UMG\4CUARTO SEMESTRE\PROGRA II\scriptsquad\scriptsquad\obj\Debug\net9.0\ref\scriptsquad.dll
