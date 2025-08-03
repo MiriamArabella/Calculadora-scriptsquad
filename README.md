@@ -1,4 +1,4 @@
-# calculdora
+# CALCULADORA 
 ## Javier Soto
 ## Brayan Sacrab
 ## Mirian Chen
