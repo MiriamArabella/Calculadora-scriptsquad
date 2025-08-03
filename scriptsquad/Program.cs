@@ -13,13 +13,22 @@ class Program
 
         int opcion = int.Parse(Console.ReadLine());
 
-        if (opcion == 2)
+        switch (opcion)
         {
+            case 2:
             Resta();
+            break;
+            
+            case 3:
+            Multiplicar();
+            break;
+            default:
+            Console.WriteLine("Opciíon no válida o no implementada aún.");
+            break;
         }
-        // TODO: Implementar la lógica de menú
-
     }
+
+  
     static void Resta()
     {
         Console.Write("Ingrese el primer número: ");
@@ -33,12 +42,17 @@ class Program
         Console.WriteLine($"Restando {a} - {b}");
         Console.WriteLine($"Resultado de la resta: {resultado}");
 
-
-
-
-
-
-        // TODO: Implementar funciones de suma, resta, multiplicación, división
     }
+      static void Multiplicación()
+    {
+        Console.Write("Ingrese el primer número: ");
+        double num1 = double.Parse(Console.ReadLine());
 
+        Console.Write("Ingrese el Segundo número: ");
+        double num2 = double.Parse(Console.ReadLine());
+
+        double resultado = num1 * num2;
+        Console.Write($"El resultado de la multiplicación es: {resultado}");
+
+      }
 }
