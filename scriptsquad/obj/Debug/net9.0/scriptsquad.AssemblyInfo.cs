@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scriptsquad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb37e6338ded9c57daaebc0f34c19a07ac2eeaf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("scriptsquad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scriptsquad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
