@@ -9,6 +9,7 @@ class Program
         Console.WriteLine("2. Resta");
         Console.WriteLine("3. Multiplicación");
         Console.WriteLine("4. División");
+        Console.WriteLine("5. Salir");
         Console.Write("Seleccione una opción: ");
         int opcion = int.Parse(Console.ReadLine());
 
@@ -17,15 +18,22 @@ class Program
         switch (opcion)
         {
             case 1:
-                Console.WriteLine("Has seleccioando la opcion de suma.");
-                Console.Write("Ingrese el primer número: ");
-                int num1 = Convert.ToInt32(Console.ReadLine());
-                Console.Write("Ingrese el segundo número: ");
-                int num2 = Convert.ToInt32(Console.ReadLine());
-                Suma(num1, num2);
+                Suma();
                 break;
+            case 2:
+
+                break;
+            case 3:
+
+                break;
+            case 4:
+            
+                break;
+            case 5:
+                Console.WriteLine("Saliendo de la calculadora...");
+                return;
             default:
-                Console.WriteLine("Opción no válida. Por favor, seleccione una opción del 1 al 4.");
+                Console.WriteLine("Opciíon no válida o no implementada aún.");
                 break;
         }
 
@@ -36,8 +44,16 @@ class Program
     }
 
     // TODO: Implementar funciones de suma, resta, multiplicación, división
-    static void Suma(int num1, int num2)
+    static void Suma()
     {
-        Console.WriteLine("El resultado de la suma es: " + (num1 + num2));
+        Console.WriteLine("Ingrese el primer número:");
+        int a = int.Parse(Console.ReadLine());
+        Console.WriteLine("Ingrese el segundo número:");
+        int b = int.Parse(Console.ReadLine());
+        int resultado = a + b;
+        Console.WriteLine($"El resultado de la suma es: {resultado}");
     }
+
+    
+    
 }
