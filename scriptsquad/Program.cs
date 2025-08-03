@@ -26,21 +26,19 @@ class Program
         int a = int.Parse(Console.ReadLine());
         Console.Write("Ingrese el segundo número: ");
         int b = int.Parse(Console.ReadLine());
+        int resultado = a - b;
+
 
         // Lógica de resta
         Console.WriteLine($"Restando {a} - {b}");
-        
-        MostrarResultadoSuma(a, b);
-    
-    {
-        Console.WriteLine($"Resultado de la suma: {a + b}");
+        Console.WriteLine($"Resultado de la resta: {resultado}");
+
+
+
+
+
+
+        // TODO: Implementar funciones de suma, resta, multiplicación, división
     }
 
-    // TODO: Implementar funciones de suma, resta, multiplicación, división
-}
-
-    private static void MostrarResultadoSuma(int a, int b)
-    {
-        throw new NotImplementedException();
-    }
 }
