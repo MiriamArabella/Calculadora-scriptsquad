@@ -18,6 +18,10 @@ class Program
 
             switch (opcion)
             {
+                case 1:
+                Suma();
+                break;
+
                 case 2:
                     Resta();
                     break;
@@ -36,6 +40,18 @@ class Program
                     break;
             }
         }
+    }
+    static void Suma()
+    {
+    Console.Write("Ingrese el primer número: ");
+    double a = double.Parse(Console.ReadLine());
+    
+    Console.Write("Ingrese el segundo número: ");
+    double b = double.Parse(Console.ReadLine());
+
+    double resultado = a + b;
+
+    Console.WriteLine($"El resultado de la suma es: {resultado}");
     }
 
 
